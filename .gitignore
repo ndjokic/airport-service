@@ -1,0 +1,12 @@
+*.iml
+.idea/
+*/.project
+*/.settings
+*/.classpath
+.classpath
+.settings
+.project
+target/*
+service/target/*
+client/target/*
+.factorypath
